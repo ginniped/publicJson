@@ -1,0 +1,11 @@
+{
+  [
+    {
+      nome: 'pippo',
+      link: 'www'
+    },
+    {
+      nome: 'pippo2',
+      link: 'www'
+    }
+}
