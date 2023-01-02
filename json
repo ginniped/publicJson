@@ -1,12 +1,12 @@
 {
   [
     {
-      nome: 'pluto2',
-      link: 'www'
+      nome: "pluto2",
+      link: "www"
     },
     {
-      nome: 'pippo2',
-      link: 'www'
+      nome: "pippo2",
+      link: "www"
     }
   ]
 }
