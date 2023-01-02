@@ -3,11 +3,11 @@
     [
       {
         "nome": "pluto",
-        "link": "www.pluto.it"
+        "link": "https://www.pluto.it"
       },
       {
         "nome": "pippo",
-        "link": "www.pippo.it"
+        "link": "https://www.pippo.it"
       }
    ]
 }
