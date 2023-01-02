@@ -2,12 +2,12 @@
   "softwaresLinks":
     [
       {
-        "nome": "pluto2",
-        "link": "www"
+        "nome": "pluto",
+        "link": "www.pluto.it"
       },
       {
-        "nome": "pippo2",
-        "link": "www"
+        "nome": "pippo",
+        "link": "www.pippo.it"
       }
    ]
 }
