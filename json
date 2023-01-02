@@ -1,12 +1,13 @@
 {
-  [
-    {
-      "nome": "pluto2",
-      "link": "www"
-    },
-    {
-      "nome": "pippo2",
-      "link": "www"
-    }
-  ]
+  "softwaresLinks":
+    [
+      {
+        "nome": "pluto2",
+        "link": "www"
+      },
+      {
+        "nome": "pippo2",
+        "link": "www"
+      }
+   ]
 }
