@@ -1,70 +1,53 @@
 {
   "softwaresLinks":
-    [
-      /*{
-        "nome": "TeamViewer 13 Quick Support Windows",
-        "nomeLink": "https://www.pluto.it"
-      },
-      {
-        "nome": "TeamViewer 13 Quick Support Mac",
-        "nomeLink": "https://www.pippo.it"
-      },
-      {
-        "nome": "TeamViewer 13 Mac",
-        "nomeLink": "https://www.pippo.it"
-      },
-      {
-        "nome": "Defender Control",
-        "nomeLink": "https://www.pippo.it"
-      },
-      {
-        "nome": "Re-Loader_ByR@1n_V14Beta3_svn07092015_1550",
-        "nomeLink": ""
-      },*/
-      {
-        "nome": "Kms2015.zip",
-        "nomeLink": "Kms2015.zip"
-      },
-      {
-        "nome": "Windows Loader.zip Win7",
-        "nomeLink": "https://www.pippo.it"
-      },
-      {
-        "nome": "Oinstall.zip",
-        "nomeLink": "https://www.pippo.it"
-      },
+  [
       {
         "nome": "CCleaner",
         "nomeLink": "ccsetup525.exe"
       },
       {
-        "nome": "IpScan25",
-        "nomeLink": "https://www.pippo.it"
-      },
-      {
-        "nome": "Jrt",
-        "nomeLink": "https://www.pippo.it"
+        "nome": "Defender Control",
+        "nomeLink": "DefenderControl.zip"
       },
       {
         "nome": "HiJackThis",
-        "nomeLink": "https://www.pippo.it"
+        "nomeLink": "HiJackThis_v2.exe"
+      },
+      {
+        "nome": "IpScan25",
+        "nomeLink": "ipscan25.exe"
       },
       {
         "nome": "Jpeg",
-        "nomeLink": "https://www.pippo.it"
+        "nomeLink": "jpg.reg"
+      },
+      {
+        "nome": "Jrt",
+        "nomeLink": "JRT.exe"
+      },
+      {
+        "nome": "Kms2015",
+        "nomeLink": "Kms2015.zip"
+      },
+      {
+        "nome": "Office 365 Pro",
+        "nomeLink": "O365ProPlusRetail.img"
+      },
+      {
+        "nome": "Oinstall.zip",
+        "nomeLink": "Oinstall.zip"
       },
       {
         "nome": "Oosu10",
-        "nomeLink": "https://www.pippo.it"
+        "nomeLink": "OOSU10.zip"
+      },
+      {
+        "nome": "Re-Loader V14",
+        "nomeLink": "Re-Loader_ByR@1n_V14Beta3_svn07092015_1550.zip"
+      },
+      {
+        "nome": "Windows Loader Win7",
+        "nomeLink": "Windows Loader v1.9.7.zip"
       }
    ]
 }
-
-
-
-
-
-
-
-
-
