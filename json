@@ -2,12 +2,32 @@
   "softwaresLinks":
   [
       {
+        "nome": "Attivatore",
+        "nomeLink": "attivatore.exe"
+      },
+      {
         "nome": "CCleaner",
         "nomeLink": "ccsetup525.exe"
       },
       {
+        "nome": "Chrome Cleanup Tool",
+        "nomeLink": "ccsetup525.exe"
+      },
+      {
+        "nome": "DControl",
+        "nomeLink": "dControl.zip"
+      },
+      {
         "nome": "Defender Control",
         "nomeLink": "DefenderControl.zip"
+      },
+      {
+        "nome": "Disattiva Windows Update.zip",
+        "nomeLink": "Disattiva servizioWindows Update.zip"
+      },
+      {
+        "nome": "GPU",
+        "nomeLink": "GPU-Z.2.22.0.exe"
       },
       {
         "nome": "HiJackThis",
@@ -18,7 +38,7 @@
         "nomeLink": "ipscan25.exe"
       },
       {
-        "nome": "Jpeg",
+        "nome": "Jpg",
         "nomeLink": "jpg.reg"
       },
       {
@@ -44,6 +64,14 @@
       {
         "nome": "Re-Loader V14",
         "nomeLink": "Re-Loader_ByR@1n_V14Beta3_svn07092015_1550.zip"
+      },
+      {
+        "nome": "Setup Prod_OffScrub",
+        "nomeLink": "SetupProd_OffScrub.exe"
+      },
+      {
+        "nome": "Todo Backup",
+        "nomeLink": "Todo.Backup.11.5.0.0.zip"
       },
       {
         "nome": "Windows Loader Win7",
